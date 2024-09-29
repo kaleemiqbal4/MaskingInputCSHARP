@@ -1,0 +1,39 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.ide
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.dll
+*.exe
+*.pdb
+*.obj
+*.appx
+*.appxbundle
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Visual Studio Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
